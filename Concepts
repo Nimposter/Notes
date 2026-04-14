@@ -1,6 +1,14 @@
 HTML:
-  content
+	content
 CSS:
-  styling the content
+	styling the content
+
+project (about me/blog) (static text)
+
+
 Javascript:
-  making the content functional
+	making the content functional
+DOM (JS):
+
+
+project (tic tac toe) (interactive)
