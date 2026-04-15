@@ -13,6 +13,16 @@ DOM (JS):
 
 project (tic tac toe) (interactive)
 
+HTML:
+	accesability, semantic markup, optional: tables and forms
+CSS:
+	responsive design, media queries, flexible layouts (flexbox and grit?), optional: tranisition and animation
+Javascript:
+	asynchronus programming, fetch and promises
+
+project (use public APIs)
+
+project (complex API e.g. chatgpt)
 
 
 \\ python
