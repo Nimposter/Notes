@@ -25,5 +25,34 @@ project (use public APIs)
 project (complex API e.g. chatgpt)
 
 
+learn terminal (navigate files, create and delete files) and git & github
+
+Node.js
+Express
+NPM (Node Package Manager)
+
+
+
+SQL databases
+NOSQL databases
+
+
+full stack project
+
+frameworks and libraries
+react.js
+
+typscript
+
+networking (http & https & DNS)
+
+cloud computing to host ur program remotely 
+
+infrastructure (dockers & containers)
+
+web security (common attacks e.g. SQL injections, cross site scripting, cross site request forgery) and defences for these)
+
+server-side rendering
+
 \\ python
 basics -> data structures -> OOP -> Projects -> ai + machine learning
