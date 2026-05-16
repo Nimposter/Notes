@@ -9,5 +9,11 @@ Selector{
 }
 
 
+selectors:
+* { } (universal selector)
+h1 { } (element selector. tag selector basically)
+
+
 color:
 background-color:
+(colour can be name, "rgb(red, green, blue)" , "#hex value")
