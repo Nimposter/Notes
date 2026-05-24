@@ -2,7 +2,7 @@ Cascading Style Sheet
 used to describe the style of a document
 
 link HTML and CSS files
-<link rel="stylesheet" href="path"
+<link rel="stylesheet" href="path">
 
 Selector{
   Property:Value;
@@ -12,8 +12,16 @@ Selector{
 selectors:
 * { } (universal selector)
 h1 { } (element selector. tag selector basically)
+#myId { } (creates a specific id, only applies properties on that element) (programming convention to use one id for one element)
+.myClass { } (creates a class, applies properties to all elements with that class)
 
 
 color:
 background-color:
 (colour can be name, "rgb(red, green, blue)" , "#hex value")
+height:35px
+width:10%
+(can be in px or percentage)
+max-height:
+min-height:
+(useful when working with relative height/width, sets the min/max dimension for the element)
