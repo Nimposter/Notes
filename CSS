@@ -8,6 +8,8 @@ Selector{
   Property:Value;
 }
 
+can use multiple selectors
+selector1, selector2, selector3{ }
 
 selectors:
 * { } (universal selector)
