@@ -31,9 +31,12 @@ text-decoration:underline/overline/linethrough/none
 (useful for removing underlines from links)
 font-family:
 (font) (write multiple fonts seperated by commas, meaning if browser dosent have first font, itll show second)
+font-size:
 
 
 
 
 EXTRA
 font-weight
+line-height
+text-transform
