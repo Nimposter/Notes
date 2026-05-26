@@ -41,7 +41,9 @@ width:
 border-width:
 border-style: solid/dotted/dashed
 border-color:
-(must set all border properties for border to show
+(must set border style for border to show)
+border-radius:
+
 EXTRA
 font-weight
 line-height
