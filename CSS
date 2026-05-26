@@ -35,7 +35,13 @@ font-size:
 
 
 
-
+BOX MODEL: content, height, width, padding, border, margin.
+height:
+width:
+border-width:
+border-style: solid/dotted/dashed
+border-color:
+(must set all border properties for border to show
 EXTRA
 font-weight
 line-height
