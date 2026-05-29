@@ -32,6 +32,7 @@ text-decoration:underline/overline/linethrough/none
 font-family:
 (font) (write multiple fonts seperated by commas, meaning if browser dosent have first font, itll show second)
 font-size:
+display: inline/block/inline-block/none
 
 
 
