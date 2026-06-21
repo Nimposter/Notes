@@ -23,7 +23,7 @@ background-color:
 (colour can be name, "rgba(red, green, blue, alpha)" , "#hex value")
 height:35px
 width:10%
-(can be in px or percentage)
+(can be in px or percentage)(em, rem root element, vh viewport height, vw view port width)
 max-height:
 min-height:
 (useful when working with relative height/width, sets the min/max dimension for the element)
