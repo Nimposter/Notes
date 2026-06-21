@@ -27,12 +27,12 @@ width:10%
 max-height:
 min-height:
 (useful when working with relative height/width, sets the min/max dimension for the element)
-text-decoration:underline/overline/linethrough/none
+text-decoration: underline / overline / linethrough / none
 (useful for removing underlines from links)
 font-family:
 (font) (write multiple fonts seperated by commas, meaning if browser dosent have first font, itll show second)
 font-size:
-display: inline/block/inline-block/none
+display: inline / block / inline-block / none
 
 
 
@@ -40,11 +40,17 @@ BOX MODEL: content, height, width, padding, border, margin.
 height:
 width:
 border-width:
-border-style: solid/dotted/dashed
+border-style: solid / dotted / dashed
 border-color:
 (must set border style for border to show)
 border-radius:
 (curved corners)
+
+
+POSITION
+position: static / relative
+
+
 
 EXTRA
 font-weight
